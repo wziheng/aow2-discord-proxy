@@ -1,6 +1,4 @@
-from email import header
 from flask import Flask,request,render_template,jsonify,Response
-from numpy import number
 from requests import post
 from time import time
 
